@@ -24,9 +24,9 @@ The page helps facilitate new ways of working, including:
 
 ### DevOps Technology stack
 
-Proraming Languages: Go Lang, Python, Bash
-Kubernetes, AWS EKS, Azure AKS, GCP 
-Elasticsearch Stack (FluentD + Kibana)
+Programing Languages: Go Lang, Python, Bash
+Kubernetes, AWS EKS, Azure AKS 
+Elasticsearch Stack
 Operators
 Jenkins + jobDSL & Grovy
 Helm
