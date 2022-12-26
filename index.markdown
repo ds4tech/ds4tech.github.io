@@ -4,9 +4,12 @@
 
 layout: home
 ---
-{{ site.title }}
+<h1>{{ site.title }}</h1>
 
-# {{ page.title }}
+<h2>ds4tech.github.io</h2>
 
-Content is written in [Markdown](https://learnxinyminutes.com/docs/markdown/).
-Plain text format allows you to focus on your **content**.
+<h3>Landing Page</h3>
+
+This page contains list of my skills translated into business outcomes.<br />
+
+DevOps capability provides a standard set of cloud-agnostic, open-source services across both AWS and Azure, centred around: CI/CD, Container Orchestration, Logging, Monitoring, Secrets Management, and Alerting.
