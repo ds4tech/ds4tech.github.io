@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: HireMe
 ---
 
 # DevOps & Site Reliability Engineering Consultant
