@@ -1,7 +1,7 @@
 ---
 layout: page
-title: HireMe
-permalink: /hireme/
+title: My Services
+permalink: /services/
 ---
 
 ## Service Offerings
