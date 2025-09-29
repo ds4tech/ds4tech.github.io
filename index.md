@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Introduction
 
-I'm Mateusz Szymczyk, a DevOps and Site Reliability Engineering consultant specializing in helping organizations accelerate their software delivery and build reliable, scalable infrastructure. Based in Wrocław, Poland, I work with companies globally to transform their development and operations practices.
+I'm Site Reliability Engineering consultant specializing in helping organizations accelerate their software delivery and build reliable, scalable infrastructure. I work with companies globally to transform their development and operations practices.
 
 ## Expertise
 

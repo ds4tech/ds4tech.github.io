@@ -4,8 +4,6 @@ title: Hire Me
 permalink: /hireme/
 ---
 
-# Hire Me
-
 ## Services
 
 I offer consulting services focused on accelerating software delivery and improving system reliability. Whether you need a comprehensive DevOps transformation or targeted infrastructure optimization, I can help your organization achieve measurable improvements.
