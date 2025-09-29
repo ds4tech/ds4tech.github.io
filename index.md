@@ -17,15 +17,14 @@ Based on my extensive experience in DevOps and Site Reliability Engineering, I h
 
 * **Kubernetes & Cloud Infrastructure**: Extensive experience optimizing Kubernetes deployments across multiple regions, implementing autoscaling solutions like Karpenter, and designing cloud-native architectures.
 
-* **CI/CD Pipeline Optimization**: I specialize in streamlining deployment pipelines, implementing GitLab workflows, and reducing lead times through automation and process improvement.
-
-* **Infrastructure Automation**: Expert in Infrastructure as Code, configuration management, and implementing touchless change management systems that reduce operational overhead.
-
 
 ## Contact
 
 Email me at `ds4tech@gmail.com` to discuss an engagement.
 
-**Mateusz Szymczyk**
-+48 693 490 695
-https://perkupdevops.com/
+**Mateusz Szymczyk**<br/>
+
+Find me on [LinkedIn](https://www.linkedin.com/in/mat-szymczyk/) or 
+<br/> [GitHub](https://github.com/ds4tech)
+<br/> +48 693 490 695
+<br/> https://perkupdevops.com/
