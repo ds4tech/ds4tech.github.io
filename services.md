@@ -1,10 +1,10 @@
 ---
 layout: page
 title: My Services
-permalink: /services/
+permalink: /myservices/
 ---
 
-## Service Offerings
+## MyServices
 
 ### DevOps Assessment & Optimization
 
