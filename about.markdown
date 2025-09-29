@@ -4,15 +4,22 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About Me
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Introduction
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I'm Mateusz Szymczyk, a DevOps and Site Reliability Engineering consultant specializing in helping organizations accelerate their software delivery and build reliable, scalable infrastructure. Based in Wrocław, Poland, I work with companies globally to transform their development and operations practices.
 
+## Expertise
 
-[jekyll-organization]: https://github.com/jekyll
+Based on my extensive experience in DevOps and Site Reliability Engineering, I have specialized expertise in the following areas:
+
+* **DevOps Transformation**: I help organizations accelerate their software delivery cycles through metrics-driven assessment and optimization of their development and deployment processes.
+
+* **Site Reliability Engineering**: Having implemented SRE practices at enterprise scale, I can help you build robust, scalable systems with proper observability, incident response, and reliability frameworks.
+
+* **Kubernetes & Cloud Infrastructure**: Extensive experience optimizing Kubernetes deployments across multiple regions, implementing autoscaling solutions like Karpenter, and designing cloud-native architectures.
+
+* **CI/CD Pipeline Optimization**: I specialize in streamlining deployment pipelines, implementing GitLab workflows, and reducing lead times through automation and process improvement.
+
+* **Infrastructure Automation**: Expert in Infrastructure as Code, configuration management, and implementing touchless change management systems that reduce operational overhead.
