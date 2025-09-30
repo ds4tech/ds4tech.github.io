@@ -3,7 +3,7 @@ tagline: Site Reliability Engineering Consultant
 description: Tailored Reliability - making systems reliable by design, not by accident.
 email: ds4tch@gmail.com
 
-github_username:  ds4tch
+github_username:  ds4tech
 repository: ds4tech/ds4tech.github.io
 
 # Build settings
@@ -12,7 +12,7 @@ remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-feed
 - jekyll-remote-theme
-# - jekyll-sitemap
+- jekyll-sitemap
 
 
 
