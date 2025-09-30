@@ -1,10 +1,8 @@
 ---
-layout: page
+layout: default
 title: My Services
 permalink: /myservices/
 ---
-
-## MyServices
 
 ### DevOps Assessment & Optimization
 
@@ -66,6 +64,11 @@ Ready to accelerate your software delivery or improve system reliability? Here's
 
 ## Contact
 
-Find me on [LinkedIn](https://www.linkedin.com/in/mat-szymczyk/) or [GitHub](https://github.com/ds4tech)
+Email me at `ds4tech@gmail.com` to discuss an engagement.
 
-Email: ds4tech@gmail.com
+**Mateusz Szymczyk**<br/>
+
+Find me on [LinkedIn](https://www.linkedin.com/in/mat-szymczyk/) or 
+<br/> [GitHub](https://github.com/ds4tech)
+<br/> +48 693 490 695
+<br/> https://perkupdevops.com/

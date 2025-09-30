@@ -1,10 +1,8 @@
 ---
-layout: page
+layout: default
 title: Hire Me
 permalink: /hireme/
 ---
-
-## Hire Me
 
 I offer consulting services focused on accelerating software delivery and improving system reliability. Whether you need a comprehensive DevOps transformation or targeted infrastructure optimization, I can help your organization achieve measurable improvements.
 
@@ -25,6 +23,11 @@ I offer consulting services focused on accelerating software delivery and improv
 
 ## Contact
 
-Find me on [LinkedIn](https://www.linkedin.com/in/mat-szymczyk/) or [GitHub](https://github.com/ds4tech)
+Email me at `ds4tech@gmail.com` to discuss an engagement.
 
-Email: ds4tech@gmail.com
+**Mateusz Szymczyk**<br/>
+
+Find me on [LinkedIn](https://www.linkedin.com/in/mat-szymczyk/) or 
+<br/> [GitHub](https://github.com/ds4tech)
+<br/> +48 693 490 695
+<br/> https://perkupdevops.com/
