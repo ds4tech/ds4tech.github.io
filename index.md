@@ -24,7 +24,6 @@ Email me at `ds4tech@gmail.com` to discuss an engagement.
 
 **Mateusz Szymczyk**<br/>
 
-Find me on [LinkedIn](https://www.linkedin.com/in/mat-szymczyk/) or 
-<br/> [GitHub](https://github.com/ds4tech)
+Find me on [LinkedIn](https://www.linkedin.com/in/mat-szymczyk/) or [GitHub](https://github.com/ds4tech)
 <br/> +48 693 490 695
 <br/> https://perkupdevops.com/
